@@ -76,3 +76,8 @@ Route::get('/debug', function() {
 
 });
 
+Route::get('/trigger-error',function() {
+    $foo = new Foobar;
+});
+
+
