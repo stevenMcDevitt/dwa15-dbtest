@@ -57,11 +57,10 @@ return array(
     		'host'      => 'localhost',
     		'database'  => 'dbtest',
     		'username'  => 'root',
-    		'password'  => 'root',
+    		'password'  => 'anpa9H9pWb',
     		'charset'   => 'utf8',
     		'collation' => 'utf8_unicode_ci',
     		'prefix'    => '',
-    		'port'		=> '8889',
 		),
 
 		'pgsql' => array(
